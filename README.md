@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anurag-Karthik
-- 👀 I’m interested in coding and AI.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in Robotics and AI.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Artificial Intelligence.
 - 📫 You can connect with me using my e-mail ID: anuragkarthik9885004600@gmail.com.
 
