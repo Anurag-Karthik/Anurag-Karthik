@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics and AI.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Artificial Intelligence.
-- 📫 You can connect with me using my e-mail ID: anuragkarthik9885004600@gmail.com.
+- 📫 You can connect with me using my e-mail ID: anuragpolamarasetty@gmail.com.
 
 <!---
 Anurag-Karthik/Anurag-Karthik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
