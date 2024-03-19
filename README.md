@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anurag-Karthik
-- 👀 I’m interested in Robotics and AI.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in AI.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on Artificial Intelligence.
 - 📫 You can connect with me using my e-mail ID: anuragpolamarasetty@gmail.com.
 
